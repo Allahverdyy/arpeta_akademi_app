@@ -225,8 +225,9 @@ class ContainerWidget extends StatelessWidget {
 
 # Arpeta Academy 
 
-![Uygulama Önizlemesi]() </br>
-
+![Uygulama Önizlemesi](https://github.com/Allahverdyy/arpeta_akademi_app/blob/main/assets/images/png/arpetass1.png | width=100) </br>
+![Uygulama Önizlemesi](https://github.com/Allahverdyy/arpeta_akademi_app/blob/main/assets/images/png/arpetass2.png =250x250) </br>
+![Uygulama Önizlemesi](https://github.com/Allahverdyy/arpeta_akademi_app/blob/main/assets/images/png/arpetass3.png {width=250px height=400px}) 
 
 This project contains a sample application for educational purposes that shows the contents of Arpeta Academy. This application provides educational content for arpeta academy.
 
