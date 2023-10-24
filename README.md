@@ -3,6 +3,9 @@
 
 It is an application that describes web coding, software development and flutter streamworks that lists the training content in Arpeta academy. 
 
+# Arpeta Academy 
+<img src="https://github.com/Allahverdyy/arpeta_akademi_app/blob/main/assets/images/png/arpetass1.png" width="200" height="400" /> <img src="https://github.com/Allahverdyy/arpeta_akademi_app/blob/main/assets/images/png/arpetass2.png" width="200" height="400" /> <img src="https://github.com/Allahverdyy/arpeta_akademi_app/blob/main/assets/images/png/arpetass3.png" width="200" height="400" />
+
 # Features
 Lists training content
 When you click the register button, it redirects to the website.
@@ -223,8 +226,7 @@ class ContainerWidget extends StatelessWidget {
 ```
 
 
-# Arpeta Academy 
-<img src="https://github.com/Allahverdyy/arpeta_akademi_app/blob/main/assets/images/png/arpetass1.png" width="200" height="400" /> <img src="https://github.com/Allahverdyy/arpeta_akademi_app/blob/main/assets/images/png/arpetass2.png" width="200" height="400" /> <img src="https://github.com/Allahverdyy/arpeta_akademi_app/blob/main/assets/images/png/arpetass3.png" width="200" height="400" />
+
 
 This project contains a sample application for educational purposes that shows the contents of Arpeta Academy. This application provides educational content for arpeta academy.
 
