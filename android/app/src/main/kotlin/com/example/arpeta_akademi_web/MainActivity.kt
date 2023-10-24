@@ -1,0 +1,6 @@
+package com.example.arpeta_akademi_web
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
