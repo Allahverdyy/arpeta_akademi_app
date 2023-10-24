@@ -43,7 +43,7 @@ class ContainerWidget extends StatelessWidget {
               children: [
                 Image.asset(
                   image,
-                  width: MediaQuery.sizeOf(context).width / 4,
+                  width: MediaQuery.sizeOf(context).width / 5,
                 ),
                 Text(
                   paragraf,

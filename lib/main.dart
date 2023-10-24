@@ -1,4 +1,4 @@
-import 'package:arpeta_akademi_web/views/view_home/home_view.dart';
+import 'package:arpeta_akademi_web/views/view_splash/splash_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: HomeView(),
+      home: SplashView(),
     );
   }
 }
