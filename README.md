@@ -237,7 +237,7 @@ This project contains a sample application for educational purposes that shows t
 
 ## Contributors 💻🖱️
 
-Creators of the Flutter Super Map
+Creators of the Flutter Arpeta Academy
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
