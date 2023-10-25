@@ -18,7 +18,7 @@ When you click the register button, it redirects to the website.
 # Usaged
 To use the ContainerWidget, you can follow the steps below:
 
-2. Here is the code for the SplashView Page. If you want to customize it, you can review the code
+1. Here is the code for the SplashView Page. If you want to customize it, you can review the code
 ```
 
 import 'package:arpeta_akademi_web/constants/color_constants.dart';
